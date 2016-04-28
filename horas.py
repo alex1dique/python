@@ -28,7 +28,7 @@ class Datos:
 		self.valorHora=float(raw_input("Pago por hora: "))
 		self.valorHoraExtra=float(raw_input("Pago por hora Extra: "))
 	def descuentos(self):
-		self.renta=float(raw_input("RENTA: "))
+		self.renta=float(rddddaw_input("RENTA: "))
 		self.isss=float(raw_input("ISSS: "))
 		self.afp=float(raw_input("AFP: "))
 class calcular(Datos):
